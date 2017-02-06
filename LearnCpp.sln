@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26127.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0.6 Hello World", "0.6 Hello World\0.6 Hello World.vcxproj", "{92BB1CB4-86EC-4180-87EC-7B42FA7EA51C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00.6 Hello World", "0.6 Hello World\0.6 Hello World.vcxproj", "{92BB1CB4-86EC-4180-87EC-7B42FA7EA51C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3 Uninitialized Memory", "1.3 Uninitialized Memory\1.3 Uninitialized Memory.vcxproj", "{FFC2853F-85E2-45A9-8604-44A85C379B61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01.3 Uninitialized Memory", "1.3 Uninitialized Memory\1.3 Uninitialized Memory.vcxproj", "{FFC2853F-85E2-45A9-8604-44A85C379B61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
